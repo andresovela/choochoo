@@ -1,3 +1,3 @@
 pub fn puff() {
-    defmt::trace!("puff");
+    defmt::trace!("Puff puff");
 }

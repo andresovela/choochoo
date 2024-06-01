@@ -3,5 +3,5 @@
 pub mod puff;
 
 pub fn choo() {
-    defmt::info!("Choo");
+    defmt::info!("Choo choo");
 }
